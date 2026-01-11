@@ -11,7 +11,7 @@ Currently sharpening my skills in **React, JavaScript, Node.js, and UI/UX** to l
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saurav-kumar-singh-3771a4223/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saurav-kumar-singh-3771a4223/)
 [![Instagram](https://img.shields.io/badge/Instagram-pink?logo=instagram&logoColor=white)](https://www.instagram.com/@SAURAV_SINGH_2509)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-darkgreen?logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/sauravsingh0666)
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/SauravkuSingh)

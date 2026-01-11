@@ -35,13 +35,7 @@ Currently sharpening my skills in **React, JavaScript, Node.js, and UI/UX** to l
 
 ## 📊 GitHub Stats
 
-![Saurav's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SauravkuSingh&show_icons=true&theme=tokyonight)
-
 ![GitHub Streak](https://streak-stats.demolab.com/?user=SauravkuSingh&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SauravkuSingh&layout=compact&theme=tokyonight)
-
-
 
 ---
 

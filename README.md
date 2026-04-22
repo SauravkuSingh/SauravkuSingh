@@ -1,3 +1,6 @@
+<p align="center">
+  <img width="700" src="https://github.com/SauravkuSingh/Krypto/blob/main/public/download.gif?raw=true" />
+</p>
 <h1 align="center">Hey 👋 What's Up?</h1>
 <h3 align="center">I'm Saurav Kumar Singh — Full Stack Developer</h3>
 
